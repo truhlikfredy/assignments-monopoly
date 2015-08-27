@@ -6,6 +6,11 @@ Authors: Anton Krug, Glen Malone, Heather Matthews, Dane McCloskey
 ![Title screen image]
 (https://raw.githubusercontent.com/truhlikfredy/assignments-monopoly/master/screenShots/00.png)
 
+# Downloads
+[monopoly.zip](https://github.com/truhlikfredy/assignments-monopoly/archive/v1.0.zip)
+
+[monopoly.tgz](https://github.com/truhlikfredy/assignments-monopoly/archive/v1.0.tar.gz)
+
 # Features
 * 2-4 players (hotseat, no networking support).
 * Ready to import Eclipse project (tested on Eclipse Kepler, Juno and Mars).
