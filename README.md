@@ -22,6 +22,16 @@ Authors: Anton Krug, Glen Malone, Heather Matthews, Dane McCloskey
 * Pseudo-graphical board rendering.
 * JUint tests.
 
+# Statistics
+
+Number of            | Value   
+:--------------------| ------:
+Classes              |     18 
+Methods              |    175 
+Lines of code        |   2522 
+
+# Screenshots
+
 ![3D dices]
 (https://raw.githubusercontent.com/truhlikfredy/assignments-monopoly/master/screenShots/01.png)
 
