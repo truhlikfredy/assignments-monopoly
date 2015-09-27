@@ -11,6 +11,9 @@ Authors: Anton Krug, Glen Malone, Heather Matthews, Dane McCloskey
 
 [monopoly.tgz](https://github.com/truhlikfredy/assignments-monopoly/archive/v1.0.tar.gz)
 
+# Issues
+Under windows command promt there is problems with UTF-8 encoded characters. Running it from inside Eclipse will resolve it. 
+
 # Features
 * 2-4 players (hotseat, no networking support).
 * Ready to import Eclipse project (tested on Eclipse Kepler, Juno and Mars).
