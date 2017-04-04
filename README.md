@@ -3,8 +3,7 @@ This is college's 1st year group project which implemented celtic tiger variant 
 
 Authors: Anton Krug, Glen Malone, Heather Matthews, Dane McCloskey
 
-![Title screen image]
-(https://raw.githubusercontent.com/truhlikfredy/assignments-monopoly/master/screenShots/00.png)
+![Title screen image](/screenShots/00.png)
 
 # Downloads
 [monopoly.zip](https://github.com/truhlikfredy/assignments-monopoly/archive/v1.0.zip)
@@ -35,14 +34,11 @@ Lines of code        |   2522
 
 # Screenshots
 
-![3D dices]
-(https://raw.githubusercontent.com/truhlikfredy/assignments-monopoly/master/screenShots/01.png)
+![3D dices](/screenShots/01.png)
 
 ###2D dices
-![2D dices]
-(https://raw.githubusercontent.com/truhlikfredy/assignments-monopoly/master/screenShots/02.png)
+![2D dices](/screenShots/02.png)
 
 ##Debug options
-![Debug menu]
-(https://raw.githubusercontent.com/truhlikfredy/assignments-monopoly/master/screenShots/03.png)
+![Debug menu](/screenShots/03.png)
 
