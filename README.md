@@ -36,9 +36,9 @@ Lines of code        |   2522
 
 ![3D dices](/screenShots/01.png)
 
-###2D dices
+### 2D dices
 ![2D dices](/screenShots/02.png)
 
-##Debug options
+## Debug options
 ![Debug menu](/screenShots/03.png)
 
